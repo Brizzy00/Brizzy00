@@ -70,7 +70,6 @@ Right now I'm learning how APIs are actually built, because I've spent long enou
 
 <img src="./assets/stats.svg" width="100%" alt="GitHub activity including private repos: contributions, commits, repo counts and top languages. Refreshed daily.">
 
-<sub>Includes private repos. Refreshed daily by a GitHub Action; no repo names leave the build.</sub>
 
 <br>
 
