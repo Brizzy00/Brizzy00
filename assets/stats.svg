@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="356" viewBox="0 0 820 356" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity, public and private</title>
+  <desc id="desc">contributions, last 12 months: 538, commits: 532, repos: 6 public · 11 private. Languages: JavaScript 81%, Python 9%, SCSS 4%, TypeScript 2%, HTML 1%.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; }
+    .txt { fill: #c9d1d9; }
+    .dim { fill: #6e7681; }
+    .me { fill: #e3b341; }
+  </style>
+  <rect x="1" y="1" width="818" height="354" rx="10" fill="#111418" stroke="#30363d"/>
+  <circle cx="24" cy="22" r="5" fill="#3a3f47"/>
+  <circle cx="42" cy="22" r="5" fill="#3a3f47"/>
+  <circle cx="60" cy="22" r="5" fill="#3a3f47"/>
+  <text x="410" y="27" text-anchor="middle" class="mono dim" font-size="12">report</text>
+  <line x1="1" y1="42" x2="819" y2="42" stroke="#30363d"/>
+  <text x="28" y="78" class="mono"><tspan class="dim">$ </tspan><tspan class="txt">npx playwright show-report </tspan><tspan class="me">--include-private</tspan></text>
+  <text x="44" y="114" class="mono"><tspan class="dim">contributions, last 12 months</tspan></text>
+  <text x="330" y="114" class="mono txt">538</text>
+  <text x="44" y="138" class="mono"><tspan class="dim">commits</tspan></text>
+  <text x="330" y="138" class="mono txt">532</text>
+  <text x="44" y="162" class="mono"><tspan class="dim">repos</tspan></text>
+  <text x="330" y="162" class="mono txt">6 public · 11 private</text>
+  <text x="44" y="202" class="mono dim">languages</text>
+  <text x="44" y="228" class="mono txt">JavaScript</text>
+  <rect x="170" y="217" width="420" height="10" rx="2" fill="#21262d"/>
+  <rect x="170" y="217" width="341.0" height="10" rx="2" fill="#3fb950"/>
+  <text x="606" y="228" class="mono dim">81.2%</text>
+  <text x="44" y="250" class="mono txt">Python</text>
+  <rect x="170" y="239" width="420" height="10" rx="2" fill="#21262d"/>
+  <rect x="170" y="239" width="39.0" height="10" rx="2" fill="#3fb950"/>
+  <text x="606" y="250" class="mono dim">9.3%</text>
+  <text x="44" y="272" class="mono txt">SCSS</text>
+  <rect x="170" y="261" width="420" height="10" rx="2" fill="#21262d"/>
+  <rect x="170" y="261" width="18.0" height="10" rx="2" fill="#3fb950"/>
+  <text x="606" y="272" class="mono dim">4.3%</text>
+  <text x="44" y="294" class="mono txt">TypeScript</text>
+  <rect x="170" y="283" width="420" height="10" rx="2" fill="#21262d"/>
+  <rect x="170" y="283" width="7.4" height="10" rx="2" fill="#3fb950"/>
+  <text x="606" y="294" class="mono dim">1.8%</text>
+  <text x="44" y="316" class="mono txt">HTML</text>
+  <rect x="170" y="305" width="420" height="10" rx="2" fill="#21262d"/>
+  <rect x="170" y="305" width="5.7" height="10" rx="2" fill="#3fb950"/>
+  <text x="606" y="316" class="mono dim">1.4%</text>
+</svg>
