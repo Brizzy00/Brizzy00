@@ -68,7 +68,7 @@ Right now I'm learning how APIs are actually built, because I've spent long enou
 
 ### `report`
 
-<img src="./assets/stats.svg" width="100%" alt="GitHub activity including private repos: contributions, commits, repo counts and top languages. Refreshed daily.">
+<img src="./assets/stats.svg" width="100%" alt="GitHub activity including private repos: contributions, pull requests, repo counts and top languages. Refreshed daily.">
 
 
 <br>
