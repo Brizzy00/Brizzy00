@@ -56,7 +56,7 @@ Right now I'm learning how APIs are actually built, because I've spent long enou
 |---|---|---|
 | **[Timesheet Bot](https://github.com/Brizzy00/Timesheet-Bot)** | A Slack bot that fills in my Clockify hours. Gemini writes the descriptions; I just approve them. | `Python` `Slack` `Gemini` |
 | **Cadence** | Schedules posts across several X accounts, so I can post on Tuesday while asleep on Tuesday. | `Node` `SQLite` `React` `OAuth 2.0` |
-| **Friend Cam** | A real-time webcam filter that swaps faces live. Built for the group chat, also lives on desktop. | `React` `Decart AI` `Electron` |
+| **Friend Cam** | A real-time webcam filter that swaps faces live. Built for the group chat, also lives on desktop. | `React` `Electron` |
 | **Gemini Task Bot** | Playwright keeps a page alive, asks Gemini what to do, then fills in the radios and sliders itself. | `Playwright` `Gemini` |
 | **Money Tracker** | A budget app that never leaves your browser. No account, no server, no one watching. | `React` `Tailwind` `localStorage` |
 | **AFTERHOURS** | A dark, noir-styled venue directory. Mostly an excuse to get the typography right. | `React` `Tailwind v4` `React Router` |
